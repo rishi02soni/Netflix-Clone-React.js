@@ -2,11 +2,6 @@
 
 A fully functional **Netflix Clone built using React.js** that fetches real-time movie data and displays it in a beautiful, responsive UI similar to Netflix.
 
----
-
-## 🚀 Live Demo
-
-*(Add your deployed link here after hosting)*
 
 ---
 
